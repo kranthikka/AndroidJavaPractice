@@ -1,4 +1,4 @@
-package com.testing;
+package testing;
 
 import org.jsoup.internal.StringUtil;
 

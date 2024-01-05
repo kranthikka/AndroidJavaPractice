@@ -1,5 +1,7 @@
 package testing;
 
+import static testing.ReverseTest.reverseWords;
+
 public class AbstractTest3 {
 
     public static void main(String[] args) {
@@ -14,11 +16,9 @@ public class AbstractTest3 {
 
         int a = name.length();
         String b = text.toUpperCase();
-        //String c = reverseWords(text);
+        String c = reverseWords(text);
 
         //System.out.println(c);
-
-
         //System.out.println("My name length: " + text.length());
         //System.out.println(reverseWords(text.toUpperCase()));
         //System.out.println(reverseWords(text.toUpperCase()));
