@@ -2,7 +2,7 @@ package test.yellow;
 
 import java.util.Scanner;
 
-public class RemoveOccuranceOfCharTest {
+public class RemoveOccurrenceOfCharTest {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
