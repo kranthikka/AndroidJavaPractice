@@ -8,10 +8,9 @@ public class AbstractTest2 extends AbstractTest{
 
     @Override
     public void Sub() {
-
     }
 
     public static void main(String[] args) {
-
     }
+
 }

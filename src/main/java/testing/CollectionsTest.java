@@ -14,6 +14,10 @@ public class CollectionsTest {
         dishes.add("cc");
         dishes.add("dd");
 
+        String a = dishes.get(0);
+
+        System.out.println(a);
+
         //for loop
         for (int i=0; i<dishes.size(); i++){
             System.out.println(dishes.get(i));
